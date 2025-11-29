@@ -66,7 +66,7 @@ html, body {
 
 /* HERO */
 .hero {
-    background: linear-gradient(135deg, rgba(10, 14, 39, 0.85) 0%, rgba(10, 14, 39, 0.85) 100%), url('img/foto principal-home.webp') center/cover no-repeat;
+    background: linear-gradient(135deg, rgba(10, 14, 39, 0.85) 0%, rgba(10, 14, 39, 0.85) 100%), url('img/homepage.jpg') center/cover no-repeat;
     border-bottom: 1px solid rgba(255, 0, 110, 0.2);
     margin-top: 70px;
     padding: 120px 0;
@@ -78,12 +78,12 @@ html, body {
 }
 
 .hero-bg {
-    background: linear-gradient(135deg, rgba(10, 14, 39, 0.85) 0%, rgba(10, 14, 39, 0.85) 100%), url('/img/produtos.jpg') center/cover no-repeat;
+    background: linear-gradient(135deg, rgba(10, 14, 39, 0.85) 0%, rgba(10, 14, 39, 0.85) 100%), url('img/homepage.jpg') center/cover no-repeat;
 }
 
 /* Hero para página Sobre */
 .hero.sobre-hero {
-    background: linear-gradient(135deg, rgba(10, 14, 39, 0.85) 0%, rgba(10, 14, 39, 0.85) 100%), url('/img/About-Us.jpg') center/cover no-repeat;
+    background: linear-gradient(135deg, rgba(10, 14, 39, 0.85) 0%, rgba(10, 14, 39, 0.85) 100%), url('img/About-Us.jpg') center/cover no-repeat;
 }
 
 .glow {
